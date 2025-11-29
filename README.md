@@ -134,4 +134,6 @@ pip install -r requirements.txt
 notebooks/eda.ipynb
 ```
 
+### **6. Run all cells in order**
+
 ---
